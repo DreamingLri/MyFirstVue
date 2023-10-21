@@ -1,6 +1,6 @@
-# myfirstvue
+# MyFirstVue
 
-a test project for my vue learning.
+a test project for my vue3 learning.
 
 ## Project setup
 ```
